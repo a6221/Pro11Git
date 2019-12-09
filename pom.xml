@@ -4,4 +4,7 @@
   <artifactId>Pro11Git</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>war</packaging>
+  <dependencies>
+  	<!--修改 -->
+  </dependencies>
 </project>
